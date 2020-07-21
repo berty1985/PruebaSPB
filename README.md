@@ -5,3 +5,4 @@ La Idea de esta iniciativa es colaborar para tener mucha informacion para poder 
 El proyecto se basa en Django, Python y BootsTrap conectado a la base de datos PostgreSQL
 
 
+probando cambios en visual estudio
